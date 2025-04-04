@@ -1,0 +1,25 @@
+{
+  "id": 123,                     
+  "name": "John Doe",            
+  "age": 30,                     
+  "balance": 2500.75,            
+  "isActive": true,              
+  "skills": ["Java", "Python"],  
+  "address": {                   
+    "street": "123 Main St",
+    "city": "New York",
+    "zipCode": 10001
+  },
+  "orders": [                    
+    {
+      "orderId": 1,
+      "product": "Laptop",
+      "price": 999.99
+    },
+    {
+      "orderId": 2,
+      "product": "Mouse",
+      "price": 25.50
+    }
+  ]
+}

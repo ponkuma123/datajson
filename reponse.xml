@@ -1,0 +1,31 @@
+<Person>
+  <id>123</id>                  
+  <name>John Doe</name>          
+  <age>30</age>                  
+  <balance>2500.75</balance>     
+  <isActive>true</isActive>      
+  
+  <skills>                       
+    <skill>Java</skill>
+    <skill>Python</skill>
+  </skills>
+
+  <address>                      
+    <street>123 Main St</street>
+    <city>New York</city>
+    <zipCode>10001</zipCode>
+  </address>
+
+  <orders>                       
+    <order>
+      <orderId>1</orderId>
+      <product>Laptop</product>
+      <price>999.99</price>
+    </order>
+    <order>
+      <orderId>2</orderId>
+      <product>Mouse</product>
+      <price>25.50</price>
+    </order>
+  </orders>
+</Person>
