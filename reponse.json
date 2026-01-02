@@ -20,6 +20,11 @@
       "orderId": 2,
       "product": "Mouse",
       "price": 25.50
+    },
+    {
+      "orderId": 3,
+      "product": "Monitor",
+      "price": 25.50
     }
   ]
 }
